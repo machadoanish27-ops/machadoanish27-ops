@@ -1,25 +1,45 @@
+<div align="center">
+
 [![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20Anish's%20Universe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35)](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20Anish's%20Universe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%9A%80+IT+Engineer+%26+Hackathon+Hunter;%F0%9F%A4%96+AI%2FML+%26+GenAI+Explorer;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%94%A5+Building+for+the+Real+World)](https://git.io/typing-svg)
 
 [![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=machadoanish27-ops&label=Galactic%20Visitors&color=blueviolet&style=for-the-badge)](https://komarev.com/ghpvc/?username=machadoanish27-ops&label=Galactic%20Visitors&color=blueviolet&style=for-the-badge) [![followers](https://img.shields.io/github/followers/machadoanish27-ops?label=Cosmic%20Followers&style=for-the-badge&color=blue)](https://img.shields.io/github/followers/machadoanish27-ops?label=Cosmic%20Followers&style=for-the-badge&color=blue) [![stars](https://img.shields.io/github/stars/machadoanish27-ops?label=Stellar%20Collection&style=for-the-badge&color=yellow)](https://img.shields.io/github/stars/machadoanish27-ops?label=Stellar%20Collection&style=for-the-badge&color=yellow)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=machadoanish27-ops&label=Galactic%20Visitors&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/machadoanish27-ops?label=Cosmic%20Followers&style=for-the-badge&color=blue" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/machadoanish27-ops?label=Stellar%20Collection&style=for-the-badge&color=yellow" alt="stars"/>
+</p>
+
+</div>
 
 ---
 
 ## 🎮 Interactive Gaming Zone
 
+<div align="center">
+
 [![Gaming Setup](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-- [Dino Game](https://chromedino.com/) [Snake](https://playsnake.org/)
-- [Tetris](https://tetris.com/play-now) [2048](https://play2048.co/)
+<table>
+<tr>
+<td align="center"><a href="https://chromedino.com/"><img src="https://img.shields.io/badge/🦕%20Chrome%20Dino-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Dino Game"/></a></td>
+<td align="center"><a href="https://playsnake.org/"><img src="https://img.shields.io/badge/🐍%20Snake%20Game-00D924?style=for-the-badge&logo=codepen&logoColor=white" alt="Snake"/></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://tetris.com/play-now"><img src="https://img.shields.io/badge/🎯%20Tetris-FF6B6B?style=for-the-badge&logo=nintendo&logoColor=white" alt="Tetris"/></a></td>
+<td align="center"><a href="https://play2048.co/"><img src="https://img.shields.io/badge/🎮%202048-FFA500?style=for-the-badge&logo=gamepad&logoColor=white" alt="2048"/></a></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## ![](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif) About Me
 
-[![Coding](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
 class AnishMachado:
@@ -48,47 +68,48 @@ class AnishMachado:
         ]
 ```
 
-**✨ Click to explore my cosmic journey!**
+<details>
+<summary>✨ Click to explore my cosmic journey!</summary>
 
 ### 🎯 Mission Control Dashboard
 
-| 🚀 Current Mission        | 🌟 Status      | 🎯 Progress     |
-| -------------------------- | -------------- | --------------- |
-| 🏆 Hackathon Prep & Grinding | 🟢 Active      | ████████░░ 80%  |
-| 🤖 GenAI & AI Workflows     | 🟢 Active      | ███████░░░ 70%  |
-| 🌐 Full Stack Projects      | 🟡 In Progress | ███████░░░ 70%  |
-| 📱 Open Source Contributions| 🔵 Exploring   | ████░░░░░░ 40%  |
+| 🚀 Current Mission | 🌟 Status | 🎯 Progress |
+|-------------------|-----------|-------------|
+| 🏆 Hackathon Prep & Grinding | 🟢 Active | ████████░░ 80% |
+| 🤖 GenAI & AI Workflows | 🟢 Active | ███████░░░ 70% |
+| 🌐 Full Stack Projects | 🟡 In Progress | ███████░░░ 70% |
+| 📱 Open Source Contributions | 🔵 Exploring | ████░░░░░░ 40% |
 
 ### ⚡ Fun Galactic Facts
-
 - 🏆 I turn ideas into real, working products
 - 🤖 Always exploring the newest AI/ML and GenAI tools
 - ☕ Fueled by coffee and curiosity
 - 💡 I believe Full Stack + AI = The future of everything
 
+</details>
+
 ---
 
 ## ![](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif) Tech Arsenal
 
-### Programming Languages
+<div align="center">
 
+### Programming Languages
 [![Python](https://img.shields.io/badge/python-367A0F?style=for-the-badge&logo=python&logoColor=ffdd54)](https://img.shields.io/badge/python-367A0F?style=for-the-badge&logo=python&logoColor=ffdd54) [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Web & Frameworks
-
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) [![Bootstrap](https://img.shields.io/badge/bootstrap-%23811FA0.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://img.shields.io/badge/bootstrap-%23811FA0.svg?style=for-the-badge&logo=bootstrap&logoColor=white) [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### AI/ML & Data Science
-
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) [![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Databases & Backend
-
 [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) [![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) [![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ### Cloud & DevOps
-
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
@@ -101,28 +122,29 @@ class AnishMachado:
 
 ## ![](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif) Featured Projects
 
-- ![](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif) **💼 Worknetic**
-  Full-stack job portal connecting job seekers and recruiters — job discovery, applications, company management, and recruitment workflows.
-  `JavaScript` `React` `Node.js`
-
-  ![](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif) **🧭 Raahi**
-  Smart commuting assistant for route planning, fare estimation, AQI-aware travel, trip tracking, and sustainable mobility insights.
-  `Python`
-
-- ![](https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif) **🎓 University Management System**
-  Desktop-based University Management System built with Java Swing and MySQL.
-  `Java` `MySQL`
-
-  ![](https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif) **✨ anish-**
-  Personal web project exploring modern JavaScript development.
-  `JavaScript`
+| | |
+| --- | --- |
+| **💼 Worknetic**<br>Full-stack job portal connecting job seekers and recruiters — job discovery, applications, company management, and recruitment workflows.<br>`JavaScript` `React` `Node.js` | **🧭 Raahi**<br>Smart commuting assistant for route planning, fare estimation, AQI-aware travel, trip tracking, and sustainable mobility insights.<br>`Python` |
+| **🎓 University Management System**<br>Desktop-based University Management System built with Java Swing and MySQL.<br>`Java` `MySQL` | **✨ anish-**<br>Personal web project exploring modern JavaScript development.<br>`JavaScript` |
 
 ---
 
 ## 🎊 Interactive Features & Tools
 
-- [Random Quote](https://api.quotable.io/random) [Color Generator](https://coolors.co/generate)
-- [ASCII Art](https://patorjk.com/software/taag/) [Calculator](https://www.calculator.net/)
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><a href="https://api.quotable.io/random"><img src="https://img.shields.io/badge/🎲%20Random%20Quote-FF69B4?style=for-the-badge&logo=openai&logoColor=white" alt="Random Quote"/></a></td>
+<td align="center"><a href="https://coolors.co/generate"><img src="https://img.shields.io/badge/🌈%20Color%20Palette-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white" alt="Color Generator"/></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://patorjk.com/software/taag/"><img src="https://img.shields.io/badge/🎨%20ASCII%20Art-9C27B0?style=for-the-badge&logo=artstation&logoColor=white" alt="ASCII Art"/></a></td>
+<td align="center"><a href="https://www.calculator.net/"><img src="https://img.shields.io/badge/🧮%20Calculator-4CAF50?style=for-the-badge&logo=calculator&logoColor=white" alt="Calculator"/></a></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -147,9 +169,11 @@ class AnishMachado:
 
 ## ![](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif) Pac-Man Eating My Contributions 👾
 
-![pacman-graph](https://raw.githubusercontent.com/machadoanish27-ops/machadoanish27-ops/output/pacman-contribution-graph.svg)
+<div align="center">
 
-*Requires the Pac-Man contribution graph GitHub Action — see setup note below.*
+<img src="https://raw.githubusercontent.com/machadoanish27-ops/machadoanish27-ops/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="900" />
+
+</div>
 
 ---
 
@@ -167,7 +191,6 @@ def longest_palindrome(s):
     max_len = 1
 
     for i in range(len(s)):
-        # Check for odd length palindromes
         left, right = i, i
         while left >= 0 and right < len(s) and s[left] == s[right]:
             current_len = right - left + 1
@@ -179,7 +202,6 @@ def longest_palindrome(s):
 
     return s[start:start + max_len]
 
-# Test it out!
 print(longest_palindrome("babad"))  # Output: "bab" or "aba"
 ```
 
@@ -191,7 +213,7 @@ print(longest_palindrome("babad"))  # Output: "bab" or "aba"
 
 ## ![](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif) Connect Across the Cosmos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-machado-05a1372aa/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anishmac_27/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-machado-05a1372aa/) [![Instagram](https://img.shields.io/badge/Instagram-E4404F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anishmac_27/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ### 📊 Daily Inspiration
 
