@@ -1,0 +1,44 @@
+name: Fix README Layout
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Clear floating About Me image
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          p = Path("README.md")
+          s = p.read_text(encoding="utf-8")
+
+          marker = "</details>\n\n---\n\n## ![](https://user-images.githubusercontent.com/74038190/212284087"
+          replacement = "</details>\n\n<div style=\"clear: both;\"></div>\n\n---\n\n## ![](https://user-images.githubusercontent.com/74038190/212284087"
+
+          if marker in s and replacement not in s:
+              s = s.replace(marker, replacement, 1)
+              p.write_text(s, encoding="utf-8")
+          PY
+
+      - name: Commit README fix and remove temporary workflow
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git rm .github/workflows/fix-readme-layout.yml
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Fix README section alignment"
+          git push
