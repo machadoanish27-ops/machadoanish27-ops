@@ -37,7 +37,7 @@
 
 ---
 
-## ![](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif) About Me
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -92,7 +92,7 @@ class AnishMachado:
 
 ---
 
-## ![](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif) Tech Arsenal
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tech Arsenal
 
 <div align="center">
 
@@ -122,7 +122,7 @@ class AnishMachado:
 
 ---
 
-## ![](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif) Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Featured Projects
 
 | | |
 | --- | --- |
@@ -150,7 +150,7 @@ class AnishMachado:
 
 ---
 
-## ![](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif) GitHub Analytics
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> GitHub Analytics
 
 [![](https://github-readme-stats.vercel.app/api?username=machadoanish27-ops&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=58A6FF&title_color=58A6FF&cache_seconds=86400)](https://github-readme-stats.vercel.app/api?username=machadoanish27-ops&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=58A6FF&title_color=58A6FF&cache_seconds=86400) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=machadoanish27-ops&layout=compact&hide_border=true&bg_color=0d1117&text_color=58A6FF&title_color=58A6FF&langs_count=8&cache_seconds=86400)](https://github-readme-stats.vercel.app/api/top-langs/?username=machadoanish27-ops&layout=compact&hide_border=true&bg_color=0d1117&text_color=58A6FF&title_color=58A6FF&langs_count=8&cache_seconds=86400)
 
@@ -162,14 +162,14 @@ class AnishMachado:
 
 ---
 
-## ![](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif) Current Focus Areas
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Current Focus Areas
 
 | 🌐 Full Stack Development<br>⚛️ React.js & Node.js applications<br>🐍 Flask backends<br>💼 Job portal & real-world platforms | 🤖 AI/ML & GenAI<br>🧠 AI workflows & prompt engineering<br>📊 Data with NumPy & Pandas<br>🔗 Exploring GenAI tooling |
 | --- | --- |
 
 ---
 
-## ![](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif) Pac-Man Eating My Contributions 👾
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Pac-Man Eating My Contributions 👾
 
 <div align="center">
 
@@ -213,7 +213,7 @@ print(longest_palindrome("babad"))  # Output: "bab" or "aba"
 
 ---
 
-## ![](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif) Connect Across the Cosmos
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Connect Across the Cosmos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-machado-05a1372aa/) [![Instagram](https://img.shields.io/badge/Instagram-E4404F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anishmac_27/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
