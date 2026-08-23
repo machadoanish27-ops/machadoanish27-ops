@@ -137,7 +137,7 @@ class AnishMachado:
 
 <table>
 <tr>
-<td align="center"><a href="https://api.quotable.io/random"><img src="https://img.shields.io/badge/🎲%20Random%20Quote-FF69B4?style=for-the-badge&logo=openai&logoColor=white" alt="Random Quote"/></a></td>
+<td align="center"><a href="https://www.brainyquote.com/quote_of_the_day"><img src="https://img.shields.io/badge/🎲%20Random%20Quote-FF69B4?style=for-the-badge&logo=openai&logoColor=white" alt="Random Quote"/></a></td>
 <td align="center"><a href="https://coolors.co/generate"><img src="https://img.shields.io/badge/🌈%20Color%20Palette-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white" alt="Color Generator"/></a></td>
 </tr>
 <tr>
@@ -181,31 +181,11 @@ class AnishMachado:
 
 ## 🎯 Interactive Challenges
 
-**🧩 Click for today's coding challenge!**
+**🧩 Today's coding challenge: Two Sum**
 
-```python
-# Challenge: Find the longest palindromic substring
-def longest_palindrome(s):
-    if not s:
-        return ""
+> Given a list of integers and a target, return the indices of two numbers that add up to the target.
 
-    start = 0
-    max_len = 1
-
-    for i in range(len(s)):
-        left, right = i, i
-        while left >= 0 and right < len(s) and s[left] == s[right]:
-            current_len = right - left + 1
-            if current_len > max_len:
-                start = left
-                max_len = current_len
-            left -= 1
-            right += 1
-
-    return s[start:start + max_len]
-
-print(longest_palindrome("babad"))  # Output: "bab" or "aba"
-```
+💡 *Come back tomorrow for a new challenge!*
 
 **🎲 Random Tech Fact Generator**
 
