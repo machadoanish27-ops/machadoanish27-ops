@@ -1,0 +1,69 @@
+name: Update Daily Code Challenge
+
+on:
+  schedule:
+    - cron: "5 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Update daily challenge and quote link
+        run: |
+          python - <<'PY'
+          from datetime import date
+          from pathlib import Path
+          import re
+
+          readme = Path("README.md")
+          text = readme.read_text(encoding="utf-8")
+
+          # Keep a rotating set of challenges so the section changes every day.
+          challenges = [
+              ("Two Sum", "Given a list of integers and a target, return the indices of two numbers that add up to the target."),
+              ("Valid Parentheses", "Determine whether a string containing brackets has valid and correctly nested pairs."),
+              ("Longest Palindromic Substring", "Find the longest substring that reads the same forwards and backwards."),
+              ("Reverse a Linked List", "Reverse a singly linked list and return the new head."),
+              ("Maximum Subarray", "Find the contiguous subarray with the largest possible sum."),
+              ("FizzBuzz", "Print numbers from 1 to n, replacing multiples of 3 with Fizz, 5 with Buzz, and both with FizzBuzz."),
+              ("Binary Search", "Find the position of a target value in a sorted array using binary search."),
+          ]
+
+          index = date.today().toordinal() % len(challenges)
+          title, prompt = challenges[index]
+          challenge_block = f'''**🧩 Today's coding challenge: {title}**\n\n> {prompt}\n\n💡 *Come back tomorrow for a new challenge!*'''
+
+          # Replace only the existing daily challenge content, leaving all other README sections untouched.
+          pattern = r"\*\*🧩 Click for today's coding challenge!\*\*.*?(?=\n\n\*\*🎲 Random Tech Fact Generator\*\*)"
+          text, count = re.subn(pattern, challenge_block, text, flags=re.DOTALL)
+          if count != 1:
+              raise SystemExit(f"Expected exactly one coding challenge section, found {count}.")
+
+          # Replace only the broken random quote destination with a stable quote page.
+          text = text.replace(
+              'href="https://api.quotable.io/random"',
+              'href="https://www.brainyquote.com/quote_of_the_day"'
+          )
+
+          readme.write_text(text, encoding="utf-8")
+          PY
+
+      - name: Commit updated README
+        run: |
+          if git diff --quiet; then
+            echo "No README changes needed today."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: update daily coding challenge"
+            git push
+          fi
