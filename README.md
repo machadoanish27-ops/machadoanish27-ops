@@ -2,7 +2,7 @@
 
 [![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20Anish's%20Universe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35)](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20Anish's%20Universe&fontSize=50&fontColor=fff&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%9A%80+IT+Engineer+%26+Hackathon+Hunter;%F0%9F%A4%96+AI%2FML+%26+GenAI+Explorer;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%94%A5+Building+for+the+Real+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=220&lines=%F0%9F%9A%80+IT+Engineer+%26+Hackathon+Hunter;%F0%9F%A4%96+AI%2FML+%26+GenAI+Explorer;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%94%A5+Building+for+the+Real+World)](https://git.io/typing-svg)
 
 [![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
