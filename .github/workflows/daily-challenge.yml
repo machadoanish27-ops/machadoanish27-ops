@@ -26,7 +26,6 @@ jobs:
           readme = Path("README.md")
           text = readme.read_text(encoding="utf-8")
 
-          # Keep a rotating set of challenges so the section changes every day.
           challenges = [
               ("Two Sum", "Given a list of integers and a target, return the indices of two numbers that add up to the target."),
               ("Valid Parentheses", "Determine whether a string containing brackets has valid and correctly nested pairs."),
@@ -37,17 +36,16 @@ jobs:
               ("Binary Search", "Find the position of a target value in a sorted array using binary search."),
           ]
 
-          index = date.today().toordinal() % len(challenges)
-          title, prompt = challenges[index]
+          title, prompt = challenges[date.today().toordinal() % len(challenges)]
           challenge_block = f'''**🧩 Today's coding challenge: {title}**\n\n> {prompt}\n\n💡 *Come back tomorrow for a new challenge!*'''
 
-          # Replace only the existing daily challenge content, leaving all other README sections untouched.
-          pattern = r"\*\*🧩 Click for today's coding challenge!\*\*.*?(?=\n\n\*\*🎲 Random Tech Fact Generator\*\*)"
+          # Update only the challenge block immediately before the existing Random Tech Fact section.
+          pattern = r"\*\*🧩.*?(?=\n\n\*\*🎲 Random Tech Fact Generator\*\*)"
           text, count = re.subn(pattern, challenge_block, text, flags=re.DOTALL)
           if count != 1:
               raise SystemExit(f"Expected exactly one coding challenge section, found {count}.")
 
-          # Replace only the broken random quote destination with a stable quote page.
+          # Fix only the broken quote button destination.
           text = text.replace(
               'href="https://api.quotable.io/random"',
               'href="https://www.brainyquote.com/quote_of_the_day"'
