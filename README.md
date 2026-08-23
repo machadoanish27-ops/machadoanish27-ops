@@ -117,9 +117,12 @@ class AnishMachado:
 
 ## 🏆 Achievements & Certifications
 
-| 🎖️ Hackathon Glory<br>🏆 **Add your hackathon wins here**<br>🚀 **Add participation highlights here** | 📜 Certifications<br>⭐ **Add your certifications here**<br>🧠 **Add your courses/internships here** |
+| 🎖️ Achievements | 📜 Certifications |
 | --- | --- |
+| 🥉 **3rd Prize – Colloquium 2025**<br>Intra-College Project Competition | 📊 **AI Dashboards using Microsoft Power BI**<br>Skill Nation |
+| 🚀 Participated in technical and project competitions, building real-world solutions | 🛡️ **Deloitte Cyber Job Simulation**<br>Forage |
 
+---
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Featured Projects
