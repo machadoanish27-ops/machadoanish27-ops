@@ -36,20 +36,33 @@ jobs:
               ("Binary Search", "Find the position of a target value in a sorted array using binary search."),
           ]
 
-          title, prompt = challenges[date.today().toordinal() % len(challenges)]
+          tech_facts = [
+              "The first computer bug was an actual bug! In 1947, a moth found in a Harvard Mark II computer helped popularize the term.",
+              "The first website is still online and was created by Tim Berners-Lee at CERN.",
+              "Python was named after the comedy group Monty Python, not the snake.",
+              "The first computer mouse was made of wood.",
+              "The Apollo 11 guidance computer had less computing power than a modern smartphone.",
+              "The term 'debugging' became popular in early computing because engineers literally removed faults from machines.",
+              "Git was created by Linus Torvalds to help manage the development of the Linux kernel.",
+          ]
+
+          day_index = date.today().toordinal()
+          title, prompt = challenges[day_index % len(challenges)]
+          fact = tech_facts[day_index % len(tech_facts)]
+
           challenge_block = f'''**🧩 Today's coding challenge: {title}**\n\n> {prompt}\n\n💡 *Come back tomorrow for a new challenge!*'''
+          fact_block = f'''**🎲 Random Tech Fact Generator**\n\n**Did you know?** {fact}'''
 
-          # Update only the challenge block immediately before the existing Random Tech Fact section.
-          pattern = r"\*\*🧩.*?(?=\n\n\*\*🎲 Random Tech Fact Generator\*\*)"
-          text, count = re.subn(pattern, challenge_block, text, flags=re.DOTALL)
-          if count != 1:
-              raise SystemExit(f"Expected exactly one coding challenge section, found {count}.")
+          # Update only the challenge and tech-fact content inside Interactive Challenges.
+          challenge_pattern = r"\*\*🧩.*?(?=\n\n\*\*🎲 Random Tech Fact Generator\*\*)"
+          text, challenge_count = re.subn(challenge_pattern, challenge_block, text, flags=re.DOTALL)
+          if challenge_count != 1:
+              raise SystemExit(f"Expected exactly one coding challenge section, found {challenge_count}.")
 
-          # Fix only the broken quote button destination.
-          text = text.replace(
-              'href="https://api.quotable.io/random"',
-              'href="https://www.brainyquote.com/quote_of_the_day"'
-          )
+          fact_pattern = r"\*\*🎲 Random Tech Fact Generator\*\*.*?(?=\n\n---\n\n## )"
+          text, fact_count = re.subn(fact_pattern, fact_block, text, flags=re.DOTALL)
+          if fact_count != 1:
+              raise SystemExit(f"Expected exactly one tech fact section, found {fact_count}.")
 
           readme.write_text(text, encoding="utf-8")
           PY
