@@ -184,9 +184,9 @@ class AnishMachado:
 
 ## 🎯 Interactive Challenges
 
-**🧩 Today's coding challenge: Two Sum**
+**🧩 Today's coding challenge: Valid Parentheses**
 
-> Given a list of integers and a target, return the indices of two numbers that add up to the target.
+> Determine whether a string containing brackets has valid and correctly nested pairs.
 
 💡 *Come back tomorrow for a new challenge!*
 
