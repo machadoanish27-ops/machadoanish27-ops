@@ -140,7 +140,7 @@ class AnishMachado:
 
 <table>
 <tr>
-<td align="center"><a href="https://www.brainyquote.com/quote_of_the_day"><img src="https://img.shields.io/badge/🎲%20Random%20Quote-FF69B4?style=for-the-badge&logo=openai&logoColor=white" alt="Random Quote"/></a></td>
+<td align="center"><a href="https://www.quotationspage.com/random.php3"><img src="https://img.shields.io/badge/🎲%20Random%20Quote-FF69B4?style=for-the-badge&logo=openai&logoColor=white" alt="Random Quote"/></a></td>
 <td align="center"><a href="https://coolors.co/generate"><img src="https://img.shields.io/badge/🌈%20Color%20Palette-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white" alt="Color Generator"/></a></td>
 </tr>
 <tr>
