@@ -62,9 +62,9 @@ class AnishMachado:
 
     def get_achievements(self):
         return [
-            "🏆 Add your hackathon wins here",
-            "⭐ Add your certifications here",
-            "🎯 Add your top achievements here",
+            "🏆 3rd Prize — Colloquium 2025 (Intra-College Project Competition)",
+            "📊 AI Dashboards using Microsoft Power BI — Skill Nation",
+            "🛡️ Deloitte Cyber Job Simulation — Forage",
         ]
 ```
 
