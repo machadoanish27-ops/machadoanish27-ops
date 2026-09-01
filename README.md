@@ -184,15 +184,15 @@ class AnishMachado:
 
 ## 🎯 Interactive Challenges
 
-**🧩 Today's coding challenge: Valid Parentheses**
+**🧩 Today's coding challenge: Longest Palindromic Substring**
 
-> Determine whether a string containing brackets has valid and correctly nested pairs.
+> Find the longest substring that reads the same forwards and backwards.
 
 💡 *Come back tomorrow for a new challenge!*
 
 **🎲 Random Tech Fact Generator**
 
-**Did you know?** The first website is still online and was created by Tim Berners-Lee at CERN.
+**Did you know?** Python was named after the comedy group Monty Python, not the snake.
 
 ---
 
