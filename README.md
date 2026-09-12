@@ -184,15 +184,15 @@ class AnishMachado:
 
 ## 🎯 Interactive Challenges
 
-**🧩 Today's coding challenge: FizzBuzz**
+**🧩 Today's coding challenge: Binary Search**
 
-> Print numbers from 1 to n, replacing multiples of 3 with Fizz, 5 with Buzz, and both with FizzBuzz.
+> Find the position of a target value in a sorted array using binary search.
 
 💡 *Come back tomorrow for a new challenge!*
 
 **🎲 Random Tech Fact Generator**
 
-**Did you know?** The term 'debugging' became popular in early computing because engineers literally removed faults from machines.
+**Did you know?** Git was created by Linus Torvalds to help manage the development of the Linux kernel.
 
 ---
 
