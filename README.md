@@ -184,15 +184,15 @@ class AnishMachado:
 
 ## 🎯 Interactive Challenges
 
-**🧩 Today's coding challenge: Binary Search**
+**🧩 Today's coding challenge: Valid Parentheses**
 
-> Find the position of a target value in a sorted array using binary search.
+> Determine whether a string containing brackets has valid and correctly nested pairs.
 
 💡 *Come back tomorrow for a new challenge!*
 
 **🎲 Random Tech Fact Generator**
 
-**Did you know?** Git was created by Linus Torvalds to help manage the development of the Linux kernel.
+**Did you know?** The first website is still online and was created by Tim Berners-Lee at CERN.
 
 ---
 
