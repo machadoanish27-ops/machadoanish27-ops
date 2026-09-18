@@ -184,15 +184,15 @@ class AnishMachado:
 
 ## 🎯 Interactive Challenges
 
-**🧩 Today's coding challenge: Maximum Subarray**
+**🧩 Today's coding challenge: FizzBuzz**
 
-> Find the contiguous subarray with the largest possible sum.
+> Print numbers from 1 to n, replacing multiples of 3 with Fizz, 5 with Buzz, and both with FizzBuzz.
 
 💡 *Come back tomorrow for a new challenge!*
 
 **🎲 Random Tech Fact Generator**
 
-**Did you know?** The Apollo 11 guidance computer had less computing power than a modern smartphone.
+**Did you know?** The term 'debugging' became popular in early computing because engineers literally removed faults from machines.
 
 ---
 
