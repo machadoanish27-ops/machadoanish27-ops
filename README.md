@@ -184,15 +184,15 @@ class AnishMachado:
 
 ## 🎯 Interactive Challenges
 
-**🧩 Today's coding challenge: Reverse a Linked List**
+**🧩 Today's coding challenge: Maximum Subarray**
 
-> Reverse a singly linked list and return the new head.
+> Find the contiguous subarray with the largest possible sum.
 
 💡 *Come back tomorrow for a new challenge!*
 
 **🎲 Random Tech Fact Generator**
 
-**Did you know?** The first computer mouse was made of wood.
+**Did you know?** The Apollo 11 guidance computer had less computing power than a modern smartphone.
 
 ---
 
