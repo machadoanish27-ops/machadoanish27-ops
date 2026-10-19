@@ -184,15 +184,15 @@ class AnishMachado:
 
 ## 🎯 Interactive Challenges
 
-**🧩 Today's coding challenge: Two Sum**
+**🧩 Today's coding challenge: Valid Parentheses**
 
-> Given a list of integers and a target, return the indices of two numbers that add up to the target.
+> Determine whether a string containing brackets has valid and correctly nested pairs.
 
 💡 *Come back tomorrow for a new challenge!*
 
 **🎲 Random Tech Fact Generator**
 
-**Did you know?** The first computer bug was an actual bug! In 1947, a moth found in a Harvard Mark II computer helped popularize the term.
+**Did you know?** The first website is still online and was created by Tim Berners-Lee at CERN.
 
 ---
 
