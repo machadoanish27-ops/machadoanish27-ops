@@ -184,15 +184,15 @@ class AnishMachado:
 
 ## 🎯 Interactive Challenges
 
-**🧩 Today's coding challenge: Longest Palindromic Substring**
+**🧩 Today's coding challenge: Reverse a Linked List**
 
-> Find the longest substring that reads the same forwards and backwards.
+> Reverse a singly linked list and return the new head.
 
 💡 *Come back tomorrow for a new challenge!*
 
 **🎲 Random Tech Fact Generator**
 
-**Did you know?** Python was named after the comedy group Monty Python, not the snake.
+**Did you know?** The first computer mouse was made of wood.
 
 ---
 
