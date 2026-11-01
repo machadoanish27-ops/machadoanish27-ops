@@ -184,15 +184,15 @@ class AnishMachado:
 
 ## 🎯 Interactive Challenges
 
-**🧩 Today's coding challenge: Binary Search**
+**🧩 Today's coding challenge: Two Sum**
 
-> Find the position of a target value in a sorted array using binary search.
+> Given a list of integers and a target, return the indices of two numbers that add up to the target.
 
 💡 *Come back tomorrow for a new challenge!*
 
 **🎲 Random Tech Fact Generator**
 
-**Did you know?** Git was created by Linus Torvalds to help manage the development of the Linux kernel.
+**Did you know?** The first computer bug was an actual bug! In 1947, a moth found in a Harvard Mark II computer helped popularize the term.
 
 ---
 
